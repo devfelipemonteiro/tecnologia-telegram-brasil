@@ -78,6 +78,7 @@
 - [grupy-df](https://telegram.me/grupydf)
 - [grupy-es](https://telegram.me/grupyes)
 - [grupy-pr](https://telegram.me/grupy_pr)
+- [grupy-rn](https://t.me/GrupyRN)
 - [grupy-sp](https://telegram.me/grupysaopaulo)
 - [pybr roda de conversa](https://t.me/pythonbr)
 - [pycoding](https://telegram.me/pycoding)
@@ -195,6 +196,8 @@
 - [ruby brasil](https://telegram.me/rubybrasil)
 - [ruby on rails br](https://telegram.me/rubyonrailsbr)
 - [rubyonrio](https://t.me/joinchat/abyn3z9mw29owhfnrrqkuq)
+- [Ruby-RN](https://t.me/ruby_rn)
+- [Jampa Ruby](https://t.me/jamparuby)
 
 ### c
 - [c'users (programação em c)](https://telegram.me/joinchat/b9c6hqlfgowlcutsjdae7a)
