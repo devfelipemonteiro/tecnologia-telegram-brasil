@@ -196,6 +196,8 @@
 - [ruby brasil](https://telegram.me/rubybrasil)
 - [ruby on rails br](https://telegram.me/rubyonrailsbr)
 - [rubyonrio](https://t.me/joinchat/abyn3z9mw29owhfnrrqkuq)
+- [Ruby-RN](https://t.me/ruby_rn)
+- [Jampa Ruby](https://t.me/jamparuby)
 
 ### c
 - [c'users (programação em c)](https://telegram.me/joinchat/b9c6hqlfgowlcutsjdae7a)
