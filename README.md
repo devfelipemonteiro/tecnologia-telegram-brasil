@@ -78,6 +78,7 @@
 - [grupy-df](https://telegram.me/grupydf)
 - [grupy-es](https://telegram.me/grupyes)
 - [grupy-pr](https://telegram.me/grupy_pr)
+- [grupy-rn](https://t.me/GrupyRN)
 - [grupy-sp](https://telegram.me/grupysaopaulo)
 - [pybr roda de conversa](https://t.me/pythonbr)
 - [pycoding](https://telegram.me/pycoding)
