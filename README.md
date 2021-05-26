@@ -149,15 +149,8 @@
 ### linux
 - [bacula/bareos-br](https://telegram.me/baculabr)
 - [brasil linux](https://telegram.me/brasillinux)
-- [estudante linux](https://telegram.me/estudante_linux)
-- [fisl18](https://t.me/joinchat/aaaaaert1ztw6-mwoiz_ea)
-- [fug-br (freebsd users group)](https://telegram.me/joinchat/b1oolauapn4y3o13iljn1w)
-- [linux + lpi](https://telegram.me/joinchat/cyydat0jg_evaeedd9qgsw )
-- [linux brazuca](https://telegram.me/joinchat/aguf-duk8yp2vi7hnywbhq)
 - [kde-brasil](https://t.me/kdebrasil)
-- [kde-brasil dev](https://t.me/kdebrasildesenvolvimento)
 - [samba4 br](https://telegram.me/samba4br)
-- [sempre update linux](https://telegram.me/joinchat/abdu9jv9mmuemoyk-wvigw)
 - [shellscript br](https://telegram.me/shellbr)
 - [papo de linux com liberdade de expressão](https://t.me/linuxlivre)
 - ##### distribuicoes linux
@@ -167,7 +160,6 @@
   - [fedora br](https://telegram.me/fedorabr)
   - [kali linux br](https://t.me/kalibrasil)
   - [opensuse br](https://telegram.me/opensusebr)
-  - [ubuntu br](https://t.me/ubuntubrasiloficial)
   - [elementary brasil](https://t.me/elementarybr)
   
 ### windows
